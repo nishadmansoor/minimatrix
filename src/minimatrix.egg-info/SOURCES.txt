@@ -1,0 +1,11 @@
+pyproject.toml
+src/minimatrix/__init__.py
+src/minimatrix/matrix.py
+src/minimatrix/operations.py
+src/minimatrix/sparse.py
+src/minimatrix/utils.py
+src/minimatrix.egg-info/PKG-INFO
+src/minimatrix.egg-info/SOURCES.txt
+src/minimatrix.egg-info/dependency_links.txt
+src/minimatrix.egg-info/top_level.txt
+tests/test_matrix.py
