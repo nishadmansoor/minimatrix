@@ -107,13 +107,6 @@ MiniMatrix is a project that demonstrates:
 The package prioritizes clarity and educational value over performance.
 
 ---
-
-## 📝 **License**
-
-This project is licensed under the **MIT License**.
-
----
-
 ## 👤 **Author**
 
 **Nishad Mansoor**
