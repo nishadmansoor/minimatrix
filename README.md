@@ -82,6 +82,20 @@ MiniMatrix can be used to:
 All operations rely on nested loops and Python primitives, making the package ideal for learning and demonstrating fundamental algorithmic concepts.
 
 ---
+## Basic Example 
+This is a basic example of how to create matricies and add them 
+```
+from minimatrix.matrix import Matrix
+from minimatrix.operations import add
+
+A = Matrix ([[1, 2],
+             [3,4]])
+B = Matrix ([[5, 6],
+             [7,8]])
+C = add(A,B)
+print("A + B =")
+print(C)
+```
 
 ## 🛠 **Development & Testing**
 
