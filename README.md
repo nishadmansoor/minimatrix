@@ -96,6 +96,12 @@ C = add(A,B)
 print("A + B =")
 print(C)
 ```
+Example output: 
+```
+A + B =
+| 6 8 |
+| 10 12 |   
+```
 
 ## 🛠 **Development & Testing**
 
