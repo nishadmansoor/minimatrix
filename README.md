@@ -96,7 +96,7 @@ To work on the package:
 
 ## 📚 **Motivation**
 
-MiniMatrix was created as part of Northeastern University’s DS5010 course to demonstrate:
+MiniMatrix is a project that demonstrates:
 
 * Object-oriented design
 * Fundamental matrix operations
